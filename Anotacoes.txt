@@ -1,0 +1,62 @@
+DESAFIO DE PROJETO
+
+Introdução do desenvolvimento moderno de software
+
+Sistema DeskTop
+
+Sistemas desktop são sistemas autônomos que podem ser instalados no computador. 
+Esta instalação normalmente é realizada por um arquivo executável. 
+Como exemplo, temos o Microsoft Word, Microsoft Excel, Anti-vírus e jogos 
+
+
+Sistema Web
+
+Sistemas baseados em tecnologia web, 
+podendo ser utilizados remotamente através de qualquer navegador de internet, 
+sem a necessidade de instalação e atualização local.
+
+Aplicações Móveis
+
+Uma aplicação móvel ou aplicativo mobile é um software desenvolvido para ser instalado em smartphones e/ou tablets. 
+É baixado de uma loja on-line, como Google Play ou App Store, direto para o seu dispositivo portátil
+
+API
+
+Acrônimo de Application Programming Interface (interface de programação de aplicativos), 
+um intermediário de software que permite que dois aplicativos conversem entre si. Cada vez que você usa um app como o Facebook, 
+envia uma mensagem instantânea ou verifica a previsão do tempo em seu telefone, você está usando uma API
+
+###################################################################################################################################################################################
+Metodologias Ageis
+
+- Framework Scrum
+- Extreme Programming (XP)
+- Kanban
+- OKR
+
+Características de um time ágil
+
+- Alinhado com o cliente e stakeholders
+- Auto-organizado e Responsável
+- Multidisciplinar
+- Entrega valor continuamente
+- Está sempre aprendendo
+- Melhoria contínua
+- Possui métricas e metas claras
+- Unido
+
+###################################################################################################################################################################################
+Pensamento Computacional
+
+Baseado em 4 pilares: 
+
+Decomposição: Dividir o problema em partes, resolvendo separadamente para posteriormente juntar os resultados
+
+Reconhecimento de Padrões: Identificar similaridades e diferenças entre os problemas
+
+Abstração: Extrapolar o conceito do problema para uma forma generalista.
+
+Design de Algoritmos: Definir passo a passo a  solução do problema
+
+
+
